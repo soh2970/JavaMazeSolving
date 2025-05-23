@@ -104,15 +104,6 @@ Replace `input.txt` with your input file.
 - Use `TestGraph.java` to verify the Graph implementation.
 - Use provided input files to validate `Maze.solve()`.
 
-## Evaluation
-
-- Program compiles and runs: 2 marks
-- Graph tests: 4 marks
-- Maze solving logic: 4 marks
-- Graph structure correctness: 4 marks
-- Code quality & documentation: 2 marks
-- Correctness of implementation: 4 marks
-
 ## Notes
 
 - You must handle file errors and invalid formats via `MazeException`.
